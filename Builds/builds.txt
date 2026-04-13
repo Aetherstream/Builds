@@ -1,18 +1,25 @@
-#id="plugin.program.daveyclanwizard"
-#version="1.0.0"
-#zip="https://raw.githubusercontent.com/DaveyClan/zips/master/_zip/plugin.program.daveyclanwizard/plugin.program.daveyclanwizard-1.0.0.zip"
-#############################################################################################################
+<builds>
 
-name="[COLOR orchid]DaveyClan[/COLOR]"
-version="1.0"
-url="https://dl.dropboxusercontent.com/scl/fi/bnkbwkdcw65bbxgp4ob8p/Daveyclan.zip?rlkey=k8quwnb3v2updmv0udkz8asid&dl=1"
-minor="https://"
-gui="https://"
-kodi="21"
-theme="https://"
-icon="https://raw.githubusercontent.com/DaveyClan/Builds/main/icon.png"
-fanart="https://raw.githubusercontent.com/DaveyClan/Builds/main/fanart.jpg"
-preview="https://"
-adult="no"
-info="https://"
-description="Official DaveyClan Build"
+  <build>
+	<name>Jdtv</name>
+	<version>1.0</version>
+	<kodi>K21</kodi>
+	<url>https://github.com/DaveyClan/Builds/releases/download/V1.0/jdtv-v1.0.zip</url>
+	<icon>http://</icon>
+	<fanart>http://</fanart>
+	<description>Brief description of the build.</description>
+	<preview>http://</preview>
+  </build>
+  
+  <build>
+	<name>Build 2</name>
+	<version>1.0</version>
+	<kodi>K21</kodi>
+	<url>http://</url>
+	<icon>http://</icon>
+	<fanart>http://</fanart>
+	<description>Brief description of the build.</description>
+	<preview>http://</preview>
+  </build>
+  
+</builds>
