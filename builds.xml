@@ -1,23 +1,12 @@
 <builds>
 
   <build>
-	<name>Build 1</name>
+	<name>JDtv</name>
 	<version>1.0</version>
 	<kodi>K21</kodi>
-	<url>http://</url>
-	<icon>http://</icon>
-	<fanart>http://</fanart>
-	<description>Brief description of the build.</description>
-	<preview>http://</preview>
-  </build>
-  
-  <build>
-	<name>Build 2</name>
-	<version>1.0</version>
-	<kodi>K21</kodi>
-	<url>http://</url>
-	<icon>http://</icon>
-	<fanart>http://</fanart>
+	<url>https://github.com/DaveyClan/Builds/releases/download/V1.0/jdtv-v1.0.zip</url>
+	<icon>https://github.com/DaveyClan/Builds/releases/download/V1.0/icon.png</icon>
+	<fanart>https://github.com/DaveyClan/Builds/releases/download/V1.0/fanart.jpg</fanart>
 	<description>Brief description of the build.</description>
 	<preview>http://</preview>
   </build>
