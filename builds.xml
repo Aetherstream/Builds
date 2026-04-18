@@ -2,7 +2,7 @@
 
   <build>
 	<name>JDtv</name>
-	<version>1.0</version>
+	<version>1.1</version>
 	<kodi>K21</kodi>
 	<url>https://github.com/DaveyClan/Builds/releases/download/V1.0/jdtv-v1.1.zip</url>
 	<icon>https://github.com/DaveyClan/Builds/releases/download/V1.0/icon.png</icon>
