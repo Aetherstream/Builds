@@ -10,5 +10,15 @@
 	<description>Brief description of the build.</description>
 	<preview>http://</preview>
   </build>
-  
+
+  <build>
+	<name>JDtv no iptv or sports</name>
+	<version>1.0</version>
+	<kodi>K21</kodi>
+	<url>https://github.com/DaveyClan/Builds/releases/download/V1.0/jdtv-v1.0.zip</url>
+	<icon>https://github.com/DaveyClan/Builds/releases/download/V1.0/icon.png</icon>
+	<fanart>https://github.com/DaveyClan/Builds/releases/download/V1.0/fanart.jpg</fanart>
+	<description>Brief description of the build.</description>
+	<preview>http://</preview>
+  </build>
 </builds>
