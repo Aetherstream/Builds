@@ -2,12 +2,12 @@
 
   <build>
 	<name>JDtv</name>
-	<version>1.1</version>
+	<version>1.2</version>
 	<kodi>K21</kodi>
-	<url>https://github.com/DaveyClan/Builds/releases/download/V1.0/jdtv-v1.1.zip</url>
+	<url>https://github.com/DaveyClan/Builds/releases/download/V1.0/jdtv-v1.2.zip</url>
 	<icon>https://github.com/DaveyClan/Builds/releases/download/V1.0/icon.png</icon>
 	<fanart>https://github.com/DaveyClan/Builds/releases/download/V1.0/fanart.jpg</fanart>
-	<description>Full JDtv build</description>
+	<description>Full JDtv build - v1.2 updated settings to create a smoother experience. Cleaner automated.</description>
 	<preview>http://</preview>
   </build>
 
