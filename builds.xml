@@ -10,6 +10,17 @@
 	<description>Full Aether Stream build - v1.2 updated settings to create a smoother experience. Cleaner automated.</description>
 	<preview>http://</preview>
   </build>
+
+  <build>
+	<name>Aether Stream Lite</name>
+	<version>1.0</version>
+	<kodi>K21</kodi>
+	<url>https://github.com/Aetherstream/Builds/releases/download/Aetherstream/aetherstream-lite-v1.0.zip</url>
+	<icon>https://github.com/Aetherstream/Builds/releases/download/Aetherstream/icon.png</icon>
+	<fanart>https://github.com/Aetherstream/Builds/releases/download/Aetherstream/fanart.jpg</fanart>
+	<description>Full Aether Stream Lite build - v1.0 updated settings to create a smoother experience. Cleaner automated.</description>
+	<preview>http://</preview>
+  </build>
 	
   <build>
 	<name>JDtv</name>
