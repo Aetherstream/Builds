@@ -1,12 +1,23 @@
 <builds>
 
+ <build>
+	<name>Aether Stream</name>
+	<version>1.2</version>
+	<kodi>K21</kodi>
+	<url>https://github.com/Aetherstream/Builds/releases/download/Aetherstream/AetherStream-v1.2.zip</url>
+	<icon>https://github.com/Aetherstream/Builds/releases/download/Aetherstream/icon.png</icon>
+	<fanart>https://github.com/Aetherstream/Builds/releases/download/Aetherstream/fanart.jpg</fanart>
+	<description>Full Aether Stream build - v1.2 updated settings to create a smoother experience. Cleaner automated.</description>
+	<preview>http://</preview>
+  </build>
+	
   <build>
 	<name>JDtv</name>
 	<version>1.2</version>
 	<kodi>K21</kodi>
-	<url>https://github.com/DaveyClan/Builds/releases/download/V1.0/jdtv-v1.2.zip</url>
-	<icon>https://github.com/DaveyClan/Builds/releases/download/V1.0/icon.png</icon>
-	<fanart>https://github.com/DaveyClan/Builds/releases/download/V1.0/fanart.jpg</fanart>
+	<url>https://github.com/Aetherstream/Builds/releases/download/V1.0/jdtv-v1.2.zip</url>
+	<icon>https://github.com/Aetherstream/Builds/releases/download/V1.0/icon.png</icon>
+	<fanart>https://github.com/Aetherstream/Builds/releases/download/V1.0/fanart.jpg</fanart>
 	<description>Full JDtv build - v1.2 updated settings to create a smoother experience. Cleaner automated.</description>
 	<preview>http://</preview>
   </build>
@@ -15,9 +26,9 @@
 	<name>JDtv no iptv or sports</name>
 	<version>1.0</version>
 	<kodi>K21</kodi>
-	<url>https://github.com/DaveyClan/Builds/releases/download/V1.0/jdtv-v1.0.notvorsports.zip</url>
-	<icon>https://github.com/DaveyClan/Builds/releases/download/V1.0/icon.png</icon>
-	<fanart>https://github.com/DaveyClan/Builds/releases/download/V1.0/fanart.jpg</fanart>
+	<url>https://github.com/Aetherstream/Builds/releases/download/V1.0/jdtv-v1.0.notvorsports.zip</url>
+	<icon>https://github.com/Aetherstream/Builds/releases/download/V1.0/icon.png</icon>
+	<fanart>https://github.com/Aetherstream/Builds/releases/download/V1.0/fanart.jpg</fanart>
 	<description>JDtv Build with sports and IPTV disabled for quicker running.</description>
 	<preview>http://</preview>
   </build>
