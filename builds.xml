@@ -12,7 +12,7 @@
   </build>
 
   <build>
-	<name>Aether Stream Sports & IPTV</name>
+	<name>Aether Stream Sports IPTV</name>
 	<version>1.0</version>
 	<kodi>K21</kodi>
 	<url>https://github.com/Aetherstream/Builds/releases/download/Aetherstream/aether-sports-iptv-v1.0.zip</url>
