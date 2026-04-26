@@ -2,7 +2,7 @@
 
  <build>
 	<name>Aether Stream Core</name>
-	<version>1.1</version>
+	<version>1.2</version>
 	<kodi>K21</kodi>
 	<url>https://github.com/Aetherstream/Builds/releases/download/Aetherstream/aether-core-v1.2.zip</url>
 	<icon>https://github.com/Aetherstream/Builds/releases/download/Aetherstream/icon.png</icon>
@@ -13,7 +13,7 @@
 
   <build>
 	<name>Aether Stream Sports IPTV</name>
-	<version>1.1</version>
+	<version>1.2</version>
 	<kodi>K21</kodi>
 	<url>https://github.com/Aetherstream/Builds/releases/download/Aetherstream/aether-sports-iptv-v1.2.zip</url>
 	<icon>https://github.com/Aetherstream/Builds/releases/download/Aetherstream/icon.png</icon>
