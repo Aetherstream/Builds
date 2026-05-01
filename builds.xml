@@ -2,9 +2,9 @@
 
  <build>
 	<name>Aether Stream Core</name>
-	<version>1.4</version>
+	<version>2.0</version>
 	<kodi>K21</kodi>
-	<url>https://github.com/Aetherstream/Builds/releases/download/Aetherstream/aether-core-v1.4.zip</url>
+	<url>https://github.com/Aetherstream/Builds/releases/download/Aetherstream/aether-core-v2.0.zip</url>
 	<icon>https://github.com/Aetherstream/Builds/releases/download/Aetherstream/icon.png</icon>
 	<fanart>https://github.com/Aetherstream/Builds/releases/download/Aetherstream/fanart.jpg</fanart>
 	<description>Full Aether Stream Core build - v1.3 POV addon added to counteract no stream available in umbrella. updated settings to create a smoother experience. Cleaner automated.</description>
